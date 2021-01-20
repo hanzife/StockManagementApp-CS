@@ -1,0 +1,86 @@
+C:\Users\Yasser\Desktop\App\Product\Product\bin\Debug\Product.exe.config
+C:\Users\Yasser\Desktop\App\Product\Product\bin\Debug\Product.exe
+C:\Users\Yasser\Desktop\App\Product\Product\bin\Debug\Product.pdb
+C:\Users\Yasser\Desktop\App\Product\Product\obj\Debug\Product.Home_FROM.resources
+C:\Users\Yasser\Desktop\App\Product\Product\obj\Debug\Product.Products.resources
+C:\Users\Yasser\Desktop\App\Product\Product\obj\Debug\Product.Properties.Resources.resources
+C:\Users\Yasser\Desktop\App\Product\Product\obj\Debug\Product.SortiesJour.resources
+C:\Users\Yasser\Desktop\App\Product\Product\obj\Debug\Product.UserControl1.resources
+C:\Users\Yasser\Desktop\App\Product\Product\obj\Debug\Product.UserDash.resources
+C:\Users\Yasser\Desktop\App\Product\Product\obj\Debug\Product.csproj.GenerateResource.cache
+C:\Users\Yasser\Desktop\App\Product\Product\obj\Debug\Product.csproj.CoreCompileInputs.cache
+C:\Users\Yasser\Desktop\App\Product\Product\obj\Debug\Product.exe
+C:\Users\Yasser\Desktop\App\Product\Product\obj\Debug\Product.pdb
+C:\Users\Yasser\Desktop\App\Product\Product\obj\Debug\Product.Incomes.resources
+C:\Users\Yasser\Desktop\App\Product\Product\obj\Debug\Product.dette.resources
+C:\Users\Yasser\Desktop\App\Product\Product\obj\Debug\Product.dubit.resources
+C:\Users\Yasser\Desktop\App\Product\Product\bin\Debug\Product.exe.manifest
+C:\Users\Yasser\Desktop\App\Product\Product\bin\Debug\Product.application
+C:\Users\Yasser\Desktop\App\Product\Product\obj\Debug\Product.csprojAssemblyReference.cache
+C:\Users\Yasser\Desktop\App\Product\Product\obj\Debug\Product.exe.manifest
+C:\Users\Yasser\Desktop\App\Product\Product\obj\Debug\Product.application
+C:\Users\Yasser\Desktop\New folder (4)\App\Product\Product\bin\Debug\Product.exe.config
+C:\Users\Yasser\Desktop\New folder (4)\App\Product\Product\bin\Debug\Product.exe.manifest
+C:\Users\Yasser\Desktop\New folder (4)\App\Product\Product\bin\Debug\Product.application
+C:\Users\Yasser\Desktop\New folder (4)\App\Product\Product\bin\Debug\Product.exe
+C:\Users\Yasser\Desktop\New folder (4)\App\Product\Product\bin\Debug\Product.pdb
+C:\Users\Yasser\Desktop\New folder (4)\App\Product\Product\obj\Debug\Product.csprojAssemblyReference.cache
+C:\Users\Yasser\Desktop\New folder (4)\App\Product\Product\obj\Debug\Product.dubit.resources
+C:\Users\Yasser\Desktop\New folder (4)\App\Product\Product\obj\Debug\Product.Home_FROM.resources
+C:\Users\Yasser\Desktop\New folder (4)\App\Product\Product\obj\Debug\Product.Incomes.resources
+C:\Users\Yasser\Desktop\New folder (4)\App\Product\Product\obj\Debug\Product.Products.resources
+C:\Users\Yasser\Desktop\New folder (4)\App\Product\Product\obj\Debug\Product.Properties.Resources.resources
+C:\Users\Yasser\Desktop\New folder (4)\App\Product\Product\obj\Debug\Product.SortiesJour.resources
+C:\Users\Yasser\Desktop\New folder (4)\App\Product\Product\obj\Debug\Product.UserControl1.resources
+C:\Users\Yasser\Desktop\New folder (4)\App\Product\Product\obj\Debug\Product.dette.resources
+C:\Users\Yasser\Desktop\New folder (4)\App\Product\Product\obj\Debug\Product.UserDash.resources
+C:\Users\Yasser\Desktop\New folder (4)\App\Product\Product\obj\Debug\Product.csproj.GenerateResource.cache
+C:\Users\Yasser\Desktop\New folder (4)\App\Product\Product\obj\Debug\Product.csproj.CoreCompileInputs.cache
+C:\Users\Yasser\Desktop\New folder (4)\App\Product\Product\obj\Debug\Product.exe.manifest
+C:\Users\Yasser\Desktop\New folder (4)\App\Product\Product\obj\Debug\Product.application
+C:\Users\Yasser\Desktop\New folder (4)\App\Product\Product\obj\Debug\Product.exe
+C:\Users\Yasser\Desktop\New folder (4)\App\Product\Product\obj\Debug\Product.pdb
+C:\Users\Yasser\Desktop\Product\Product\bin\Debug\Product.exe.config
+C:\Users\Yasser\Desktop\Product\Product\bin\Debug\Product.exe.manifest
+C:\Users\Yasser\Desktop\Product\Product\bin\Debug\Product.application
+C:\Users\Yasser\Desktop\Product\Product\bin\Debug\Product.exe
+C:\Users\Yasser\Desktop\Product\Product\bin\Debug\Product.pdb
+C:\Users\Yasser\Desktop\Product\Product\obj\Debug\Product.dubit.resources
+C:\Users\Yasser\Desktop\Product\Product\obj\Debug\Product.Home_FROM.resources
+C:\Users\Yasser\Desktop\Product\Product\obj\Debug\Product.Incomes.resources
+C:\Users\Yasser\Desktop\Product\Product\obj\Debug\Product.Products.resources
+C:\Users\Yasser\Desktop\Product\Product\obj\Debug\Product.Properties.Resources.resources
+C:\Users\Yasser\Desktop\Product\Product\obj\Debug\Product.SortiesJour.resources
+C:\Users\Yasser\Desktop\Product\Product\obj\Debug\Product.UserControl1.resources
+C:\Users\Yasser\Desktop\Product\Product\obj\Debug\Product.dette.resources
+C:\Users\Yasser\Desktop\Product\Product\obj\Debug\Product.UserDash.resources
+C:\Users\Yasser\Desktop\Product\Product\obj\Debug\Product.csproj.GenerateResource.cache
+C:\Users\Yasser\Desktop\Product\Product\obj\Debug\Product.csproj.CoreCompileInputs.cache
+C:\Users\Yasser\Desktop\Product\Product\obj\Debug\Product.exe.manifest
+C:\Users\Yasser\Desktop\Product\Product\obj\Debug\Product.application
+C:\Users\Yasser\Desktop\Product\Product\obj\Debug\Product.exe
+C:\Users\Yasser\Desktop\Product\Product\obj\Debug\Product.pdb
+C:\Users\Yasser\Desktop\Product\Product\obj\Debug\Product.CalculeRevenue.resources
+C:\Users\Yasser\Desktop\Product\Product\obj\Debug\Product.csprojAssemblyReference.cache
+C:\Users\Yasser\Desktop\Application Yasser Hanzife\Product\Product\bin\Debug\Product.exe.config
+C:\Users\Yasser\Desktop\Application Yasser Hanzife\Product\Product\bin\Debug\Product.exe.manifest
+C:\Users\Yasser\Desktop\Application Yasser Hanzife\Product\Product\bin\Debug\Product.application
+C:\Users\Yasser\Desktop\Application Yasser Hanzife\Product\Product\bin\Debug\Product.exe
+C:\Users\Yasser\Desktop\Application Yasser Hanzife\Product\Product\bin\Debug\Product.pdb
+C:\Users\Yasser\Desktop\Application Yasser Hanzife\Product\Product\obj\Debug\Product.csprojAssemblyReference.cache
+C:\Users\Yasser\Desktop\Application Yasser Hanzife\Product\Product\obj\Debug\Product.CalculeRevenue.resources
+C:\Users\Yasser\Desktop\Application Yasser Hanzife\Product\Product\obj\Debug\Product.dubit.resources
+C:\Users\Yasser\Desktop\Application Yasser Hanzife\Product\Product\obj\Debug\Product.Home_FROM.resources
+C:\Users\Yasser\Desktop\Application Yasser Hanzife\Product\Product\obj\Debug\Product.Incomes.resources
+C:\Users\Yasser\Desktop\Application Yasser Hanzife\Product\Product\obj\Debug\Product.Products.resources
+C:\Users\Yasser\Desktop\Application Yasser Hanzife\Product\Product\obj\Debug\Product.Properties.Resources.resources
+C:\Users\Yasser\Desktop\Application Yasser Hanzife\Product\Product\obj\Debug\Product.SortiesJour.resources
+C:\Users\Yasser\Desktop\Application Yasser Hanzife\Product\Product\obj\Debug\Product.UserControl1.resources
+C:\Users\Yasser\Desktop\Application Yasser Hanzife\Product\Product\obj\Debug\Product.dette.resources
+C:\Users\Yasser\Desktop\Application Yasser Hanzife\Product\Product\obj\Debug\Product.UserDash.resources
+C:\Users\Yasser\Desktop\Application Yasser Hanzife\Product\Product\obj\Debug\Product.csproj.GenerateResource.cache
+C:\Users\Yasser\Desktop\Application Yasser Hanzife\Product\Product\obj\Debug\Product.csproj.CoreCompileInputs.cache
+C:\Users\Yasser\Desktop\Application Yasser Hanzife\Product\Product\obj\Debug\Product.exe.manifest
+C:\Users\Yasser\Desktop\Application Yasser Hanzife\Product\Product\obj\Debug\Product.application
+C:\Users\Yasser\Desktop\Application Yasser Hanzife\Product\Product\obj\Debug\Product.exe
+C:\Users\Yasser\Desktop\Application Yasser Hanzife\Product\Product\obj\Debug\Product.pdb
